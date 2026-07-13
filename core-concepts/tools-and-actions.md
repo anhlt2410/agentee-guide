@@ -31,11 +31,11 @@ CRM · Account · HRM · Chat
 
 ## External connectors
 
-| Connector   | Used for                                     | Detail                                                                               |
-| ----------- | -------------------------------------------- | ------------------------------------------------------------------------------------ |
-| Image / OCR | Lead creation from a photo                   | See [Lead Creation](../features/core-workflows/lead-creation.md)                     |
-| Apollo.io   | Lead/company enrichment                      | See [Outreach Campaign Leads](../features/core-workflows/outreach-campaign-leads.md) |
-| Gmail       | Sending outreach from the rep's real address | OAuth; tracks sent/replied                                                           |
+| Connector   | Used for                                     | Detail                                                                                          |
+| ----------- | -------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| Image / OCR | Lead creation from a photo                   | See [Lead Creation](../features-and-guides/core-workflows/lead-creation.md)                     |
+| Apollo.io   | Lead/company enrichment                      | See [Outreach Campaign Leads](../features-and-guides/core-workflows/outreach-campaign-leads.md) |
+| Gmail       | Sending outreach from the rep's real address | OAuth; tracks sent/replied                                                                      |
 
 {% hint style="warning" %}
 **TODO:** Confirm the full action list and exact response payload shapes per action.

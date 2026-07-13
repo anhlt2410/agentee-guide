@@ -16,32 +16,32 @@
 
 ## Features & Guides
 
-* [Dynamic Workflow Definition](features/dynamic-workflow-definition.md)
-* [Core Workflows](features/core-workflows/README.md)
-  * [Proposal Builder](features/core-workflows/proposal-builder.md)
-  * [Lead Creation](features/core-workflows/lead-creation.md)
-  * [Outreach Campaign Leads](features/core-workflows/outreach-campaign-leads.md)
-* [Prompting Tips](features/prompting-tips.md)
-* [Limitations & Known Issues](features/limitations.md)
+* [Dynamic Workflow Definition](features-and-guides/dynamic-workflow-definition.md)
+* [Core Workflows](features-and-guides/core-workflows/README.md)
+  * [Proposal Builder](features-and-guides/core-workflows/proposal-builder.md)
+  * [Lead Creation](features-and-guides/core-workflows/lead-creation.md)
+  * [Outreach Campaign Leads](features-and-guides/core-workflows/outreach-campaign-leads.md)
+* [Prompting Tips](features-and-guides/prompting-tips.md)
+* [Limitations & Known Issues](features-and-guides/limitations.md)
 
 ## Admin & Configuration
 
-* [Roles & Permissions](admin/roles-and-permissions.md)
-* [Data Access & Scoping](admin/data-access-scoping.md)
-* [Audit & Logging](admin/audit-and-logging.md)
-* [Cost & Usage Limits](admin/cost-usage-limits.md)
+* [Roles & Permissions](admin-and-configuration/roles-and-permissions.md)
+* [Data Access & Scoping](admin-and-configuration/data-access-scoping.md)
+* [Audit & Logging](admin-and-configuration/audit-and-logging.md)
+* [Cost & Usage Limits](admin-and-configuration/cost-usage-limits.md)
 
 ## Security & Compliance
 
-* [Data Handling](security/data-handling.md)
-* [Privacy](security/privacy.md)
-* [Access Control Model](security/access-control.md)
+* [Data Handling](security-and-compliance/data-handling.md)
+* [Privacy](security-and-compliance/privacy.md)
+* [Access Control Model](security-and-compliance/access-control.md)
 
 ## Help
 
-* [FAQ](faq/common-questions.md)
-* [Troubleshooting](faq/troubleshooting.md)
+* [FAQ](help/common-questions.md)
+* [Troubleshooting](help/troubleshooting.md)
 
 ## Release
 
-* [Changelog](changelog.md)
+* [Changelog](release/changelog.md)

@@ -12,7 +12,7 @@ Agentee uses **Single Sign-On (SSO)** through your ERP login portal. There is no
 <div align="center"><figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
-Because access is tied to your ERP identity, the roles and data scoping defined in the ERP apply automatically in Agentee. See [Roles & Permissions](../admin/roles-and-permissions.md).
+Because access is tied to your ERP identity, the roles and data scoping defined in the ERP apply automatically in Agentee. See [Roles & Permissions](../admin-and-configuration/roles-and-permissions.md).
 {% endhint %}
 
 ## 2. Send your first message

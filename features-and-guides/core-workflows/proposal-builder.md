@@ -47,7 +47,3 @@ Finalization ──(Sales Rep final approval)──► Send
 {% hint style="info" %}
 Every action here is logged; the Sales Manager can review the full audit trail. See [Audit & Logging](../../admin-and-configuration/audit-and-logging.md).
 {% endhint %}
-
-{% hint style="warning" %}
-**TODO:** Define the discount threshold value/source and the exact hand-off mechanics to the Technical Consultant (notification? assignment?).
-{% endhint %}

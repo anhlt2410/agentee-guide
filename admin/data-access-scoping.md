@@ -1,4 +1,5 @@
 ---
+icon: filter
 description: Which records each user can see and act on.
 ---
 

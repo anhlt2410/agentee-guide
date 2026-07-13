@@ -1,4 +1,5 @@
 ---
+icon: gears
 description: The architecture behind the chat — natural language in, ERP actions out.
 ---
 

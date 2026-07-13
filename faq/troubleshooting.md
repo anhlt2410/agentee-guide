@@ -1,4 +1,5 @@
 ---
+icon: wrench
 description: Symptom → cause → fix.
 ---
 

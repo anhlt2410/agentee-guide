@@ -1,4 +1,5 @@
 ---
+icon: brain
 description: How Agentee remembers within a session — and forgets between them.
 ---
 

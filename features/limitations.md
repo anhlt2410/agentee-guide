@@ -1,4 +1,5 @@
 ---
+icon: triangle-exclamation
 description: What Agentee can't do yet, and how to work around it.
 ---
 

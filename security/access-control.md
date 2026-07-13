@@ -1,4 +1,5 @@
 ---
+icon: key
 description: How access is granted and enforced.
 ---
 

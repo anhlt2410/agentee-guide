@@ -1,4 +1,5 @@
 ---
+icon: bullhorn
 description: >-
   Auto-enrich leads via Apollo.io, de-duplicate against CRM, and send outreach
   from the rep's own Gmail.

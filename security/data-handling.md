@@ -1,4 +1,5 @@
 ---
+icon: database
 description: What data Agentee touches, where it goes, and how it's retained.
 ---
 

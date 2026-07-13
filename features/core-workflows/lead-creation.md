@@ -1,4 +1,5 @@
 ---
+icon: user-plus
 description: Create a CRM lead by scanning an image or photo.
 ---
 

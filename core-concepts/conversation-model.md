@@ -1,4 +1,5 @@
 ---
+icon: comments
 description: How commands are issued and how Agentee responds across channels.
 ---
 

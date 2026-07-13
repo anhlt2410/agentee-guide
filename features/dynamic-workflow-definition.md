@@ -1,4 +1,5 @@
 ---
+icon: diagram-project
 description: >-
   Admins define a workflow and import it so Agentee understands and executes it.
 ---

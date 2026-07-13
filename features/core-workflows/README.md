@@ -1,4 +1,5 @@
 ---
+icon: list-check
 description: The main sales workflows Agentee runs end to end.
 ---
 

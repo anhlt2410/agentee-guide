@@ -1,4 +1,5 @@
 ---
+icon: gauge-high
 description: Token, rate, and usage limits surfaced to admins.
 ---
 

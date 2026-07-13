@@ -1,4 +1,5 @@
 ---
+icon: file-signature
 description: A 5-stage, multi-role workflow for generating and approving proposals.
 ---
 

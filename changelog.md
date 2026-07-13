@@ -1,4 +1,5 @@
 ---
+icon: clock-rotate-left
 description: Release notes for Agentee.
 ---
 

@@ -1,4 +1,5 @@
 ---
+icon: lock
 description: PII handling and Vietnamese data considerations.
 ---
 

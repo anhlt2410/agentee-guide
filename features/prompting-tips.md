@@ -1,4 +1,5 @@
 ---
+icon: lightbulb
 description: How to phrase requests so Agentee does the right thing the first time.
 ---
 

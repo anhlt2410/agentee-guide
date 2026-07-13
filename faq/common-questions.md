@@ -1,4 +1,5 @@
 ---
+icon: circle-question
 description: Frequently asked questions about Agentee.
 ---
 

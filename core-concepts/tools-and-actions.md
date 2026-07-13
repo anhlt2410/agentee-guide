@@ -1,4 +1,5 @@
 ---
+icon: screwdriver-wrench
 description: The concrete read and write actions Agentee can perform against your ERP.
 ---
 

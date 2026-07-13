@@ -1,4 +1,5 @@
 ---
+icon: robot
 description: What the agent can and can't do — and where the human stays in control.
 ---
 

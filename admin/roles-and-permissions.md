@@ -1,4 +1,5 @@
 ---
+icon: user-shield
 description: Role-based scoping, action logging, and reliable performance across channels.
 ---
 

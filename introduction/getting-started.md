@@ -1,4 +1,5 @@
 ---
+icon: rocket
 description: Log in and send your first message.
 ---
 

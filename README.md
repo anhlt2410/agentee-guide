@@ -1,4 +1,5 @@
 ---
+icon: wand-magic-sparkles
 description: >-
   Agentee is a conversational ERP. Plan, manage, and operate your business by
   sending a message — no forms, no menus, no training.

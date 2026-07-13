@@ -1,4 +1,5 @@
 ---
+icon: clipboard-list
 description: Every agent action triggered from chat is logged.
 ---
 

@@ -1,14 +1,13 @@
 ---
-icon: file-signature
 description: A 5-stage, multi-role workflow for generating and approving proposals.
+icon: file-signature
 ---
 
 # Proposal Builder
 
 ## Goal
 
-Take a deal from raw requirements to an approved, ready-to-send proposal, with
-the right people validating each part.
+Take a deal from raw requirements to an approved, ready-to-send proposal, with the right people validating each part.
 
 ## The 5 stages
 
@@ -20,10 +19,10 @@ the right people validating each part.
 
 ## Roles & responsibilities
 
-| Role | Responsibility |
-|------|----------------|
-| **Sales Rep** | Owns the deal; triggers the proposal, confirms scope, and gives final approval before sending. |
-| **Sales Manager** | Approves proposals that exceed the discount threshold; reviews the audit trail. |
+| Role                     | Responsibility                                                                                                                                                              |
+| ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sales Rep**            | Owns the deal; triggers the proposal, confirms scope, and gives final approval before sending.                                                                              |
+| **Sales Manager**        | Approves proposals that exceed the discount threshold; reviews the audit trail.                                                                                             |
 | **Technical Consultant** | Internal expert; validates technical sections, selects architecture/stack, and reviews cost-estimation effort. Engaged **between scope confirmation and final generation**. |
 
 ## Flow with approval gates
@@ -43,12 +42,12 @@ Technical Proposal → Cost Estimation
 Finalization ──(Sales Rep final approval)──► Send
 ```
 
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
-Every action here is logged; the Sales Manager can review the full audit trail.
-See [Audit & Logging](../../admin/audit-and-logging.md).
+Every action here is logged; the Sales Manager can review the full audit trail. See [Audit & Logging](../../admin/audit-and-logging.md).
 {% endhint %}
 
 {% hint style="warning" %}
-**TODO:** Define the discount threshold value/source and the exact hand-off
-mechanics to the Technical Consultant (notification? assignment?).
+**TODO:** Define the discount threshold value/source and the exact hand-off mechanics to the Technical Consultant (notification? assignment?).
 {% endhint %}

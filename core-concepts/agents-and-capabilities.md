@@ -1,13 +1,13 @@
 ---
-icon: robot
 description: What the agent can and can't do — and where the human stays in control.
+icon: robot
 ---
 
 # Agents & Capabilities
 
 ## What Agentee can do
 
-* Create orders from a natural-language description
+* Create data from a natural-language description
 * Check inventory / stock levels and raise low-stock alerts
 * Answer revenue and comparison queries (e.g. month-over-month)
 * Prepare purchase orders, payment reminders, and follow-ups
@@ -17,17 +17,14 @@ description: What the agent can and can't do — and where the human stays in co
 
 ## The core boundary: AI prepares, humans decide
 
-Agentee **drafts** actions; it does not fire them autonomously. For anything that
-changes data or leaves the system (POs, emails, reminders), a user reviews and
-approves first.
+Agentee **drafts** actions; it does not fire them autonomously. For anything that changes data or leaves the system (POs, emails, reminders), a user reviews and approves first.
 
-> AI prepares POs, payment reminders, or follow-ups. Users review and approve
-> before anything is sent.
+> AI prepares POs, payment reminders, or follow-ups. Users review and approve before anything is sent.
+
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-This approval gate is the single most important thing to communicate to new
-users: Agentee is fast, but it never sends or commits on your behalf without a
-human confirming.
+This approval gate is the single most important thing to communicate to new users: Agentee is fast, but it never sends or commits on your behalf without a human confirming.
 {% endhint %}
 
 ## What Agentee does not do

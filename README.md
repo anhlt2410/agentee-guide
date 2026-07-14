@@ -1,15 +1,13 @@
 ---
-icon: wand-magic-sparkles
 description: >-
   Agentee is a conversational ERP. Plan, manage, and operate your business by
-  sending a message — no forms, no menus, no training.
+  sending a message, no forms, no menus, no training.
+icon: wand-magic-sparkles
 ---
 
 # What is Agentee?
 
-Agentee is a **conversational ERP**. Instead of navigating menus and filling in
-multi-screen forms, users type a natural-language message and Agentee performs
-the action in the correct module — then confirms with a structured result.
+Agentee is a **conversational ERP**. Instead of navigating menus and filling in multi-screen forms, users type a natural-language message and Agentee performs the action in the correct module — then confirms with a structured result.
 
 > No need to open ERP. No need to remember menus. Just send a message.
 
@@ -22,14 +20,10 @@ Most ERP investments underperform for one reason: **people don't adopt them.**
 * Leaders wait until the afternoon for yesterday's numbers — decisions run on stale data.
 * Every new hire repeats onboarding on an 80-page manual.
 
-Industry research reflects this: a large share of ERP projects fail to meet
-their initial expectations, and the leading cause is **low user adoption**, not
-broken technology.
+Industry research reflects this: a large share of ERP projects fail to meet their initial expectations, and the leading cause is **low user adoption**, not broken technology.
 
 {% hint style="info" %}
-The problem isn't that your business isn't ready. It's that traditional ERP
-isn't built for the way people actually work. Agentee keeps the data and lets
-people talk to it.
+The problem isn't that your business isn't ready. It's that traditional ERP isn't built for the way people actually work. Agentee keeps the data and lets people talk to it.
 {% endhint %}
 
 ## Key capabilities
@@ -41,14 +35,14 @@ people talk to it.
 
 ## Who it's for
 
-| Role | What they do with Agentee |
-|------|---------------------------|
-| CEO / Owner | Real-time revenue, stock alerts, PO approvals |
-| Employee | Create orders, update delivery/inventory, generate invoices |
-| Sales Rep | Trigger proposals, create leads, run outreach |
-| Sales Manager | Approve above-threshold proposals, review audit trail |
-| Technical Consultant | Validate technical proposal sections, choose stack |
-| System Admin | Define workflows, manage roles and scoping |
+| Role                 | What they do with Agentee                                   |
+| -------------------- | ----------------------------------------------------------- |
+| CEO / Owner          | Real-time revenue, stock alerts, PO approvals               |
+| Employee             | Create orders, update delivery/inventory, generate invoices |
+| Sales Rep            | Trigger proposals, create leads, run outreach               |
+| Sales Manager        | Approve above-threshold proposals, review audit trail       |
+| Technical Consultant | Validate technical proposal sections, choose stack          |
+| System Admin         | Define workflows, manage roles and scoping                  |
 
 ## Next steps
 

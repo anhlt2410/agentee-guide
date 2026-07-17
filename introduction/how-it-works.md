@@ -1,21 +1,19 @@
 ---
-icon: gears
 description: The architecture behind the chat — natural language in, ERP actions out.
+icon: gears
 ---
 
 # How it works
 
-Agentee sits between the user and your ERP. The user sends a natural-language
-message; Agentee interprets intent, calls the right ERP action through an API,
-and returns a structured confirmation.
+Agentee sits between the user and your ERP. The user sends a natural-language message; Agentee interprets intent, calls the right ERP action through an API, and returns a structured confirmation.
 
 ## Traditional ERP vs Agentee
 
-| | Traditional ERP | Agentee |
-|---|---|---|
-| Interaction | Menu → Form → Click | Type a message |
-| Effort | ~6 screens to create one order | 1 message |
-| Result | Manual data entry | AI records it in the correct module |
+|             | Traditional ERP                 | Agentee                             |
+| ----------- | ------------------------------- | ----------------------------------- |
+| Interaction | Menu → Form → Click             | Type a message                      |
+| Effort      | \~6 screens to create one order | 1 message                           |
+| Result      | Manual data entry               | AI records it in the correct module |
 
 **Example**
 
@@ -25,8 +23,7 @@ and returns a structured confirmation.
 
 ## Where the data lives
 
-Agentee does not replace your data layer. It connects to the existing ERP
-through APIs, so legacy data stays intact and **no migration is required**.
+Agentee does not replace your data layer. It connects to the existing ERP through APIs, so legacy data stays intact and **no migration is required**.
 
 > The data is still there — but now people can simply talk to it.
 
@@ -34,15 +31,14 @@ through APIs, so legacy data stays intact and **no migration is required**.
 
 Agentee supports two deployment models:
 
-| | Option A — Full Agentee | Option B — Keep your ERP + add Chat |
-|---|---|---|
-| What it is | Complete ERP with a built-in chat interface | Agentee Chat connects to your current ERP via API |
-| Best for | New setup or replacing an existing system | Preserving existing ERP investment |
-| Modules / support | CRM, Account, Inventory, HRM, Chat | Works with SAP, Odoo, MISA, and others |
+|                   | Option A — Full Agentee                     | Option B — Keep your ERP + add Chat               |
+| ----------------- | ------------------------------------------- | ------------------------------------------------- |
+| What it is        | Complete ERP with a built-in chat interface | Agentee Chat connects to your current ERP via API |
+| Best for          | New setup or replacing an existing system   | Preserving existing ERP investment                |
+| Modules / support | CRM, Account, Inventory, HRM, Chat          | Works with SAP, Odoo, MISA, and others            |
 
 {% hint style="info" %}
-If the AI misunderstands a request, users can always open the traditional ERP
-interface to check or edit data directly.
+If the AI misunderstands a request, users can always open the traditional ERP interface to check or edit data directly.
 {% endhint %}
 
 ## Request lifecycle (high level)
@@ -52,7 +48,3 @@ interface to check or edit data directly.
 3. Agentee calls the relevant ERP action(s) via API.
 4. For actions that change data or send communications, Agentee **prepares** the action and waits for human approval.
 5. Agentee returns a structured confirmation and logs the action.
-
-{% hint style="warning" %}
-**TODO:** Add an architecture diagram (LLM ↔ workflow engine ↔ ERP API ↔ external connectors) once finalized.
-{% endhint %}

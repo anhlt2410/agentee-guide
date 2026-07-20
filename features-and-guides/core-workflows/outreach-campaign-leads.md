@@ -44,7 +44,3 @@ If a match is found, the agent should resolve to the existing record rather than
 {% hint style="info" %}
 Sending is a write action — outreach is drafted for the rep to approve before it goes out. See [Agents & Capabilities](../../core-concepts/agents-and-capabilities.md).
 {% endhint %}
-
-{% hint style="warning" %}
-**TODO:** Document Apollo.io API scopes/rate limits/cost and Gmail OAuth scopes. These flows send data to third parties — cross-link [Privacy](../../security-and-compliance/privacy.md) and [Data Handling](../../security-and-compliance/data-handling.md).
-{% endhint %}

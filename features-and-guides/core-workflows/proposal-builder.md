@@ -42,7 +42,7 @@ Technical Proposal → Cost Estimation
 Finalization ──(Sales Rep final approval)──► Send
 ```
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Every action here is logged; the Sales Manager can review the full audit trail. See [Audit & Logging](../../admin-and-configuration/audit-and-logging.md).
